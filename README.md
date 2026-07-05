@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Tengiz 👋
 
-<!--
-**longtermgames/longtermgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer (Go) from Kyrgyzstan. Competitive programming background —
+medalist of international informatics olympiads (EJOI, Zhautykov, Eurasian Team Olympiad).
 
-Here are some ideas to get you started:
+**Now:** building backend projects in Go · looking for internship opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Go · PostgreSQL · REST · JWT · Git · Linux
+
+**Featured:** [Workout Journal](https://github.com/longtermgames/workout-api) —
+workout tracking app (Go + PostgreSQL), live at [longtermgames.github.io/workout-api](https://longtermgames.github.io/workout-api)
+
+📫 tengizdzamalov@gmail.com
